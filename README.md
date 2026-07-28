@@ -15,8 +15,10 @@ Unofficial SignalRGB device plugin for the Red Square Alumix 68 Yotei keyboard.
 Tested with:
 
 - Red Square Alumix 68 Yotei
+- USB product name: `RSQ-20058`
 - USB VID: `0C45`
 - USB PID: `80A2`
+- Firmware version: `1.30`
 - SignalRGB 2.5.74
 - Windows 11
 
@@ -39,7 +41,7 @@ Other keyboard revisions have not been tested.
 
 - The Fn key is handled internally by the keyboard firmware and does not produce a normal key event, so SignalRGB reactive effects cannot react to Fn presses.
 - Caps Lock and Win Lock indicators are not preserved while direct RGB streaming is active.
-- The plugin was tested only with hardware revision `0130`.
+- The plugin has been tested only with firmware version `1.30`.
 - The official Red Square configurator should not control the keyboard at the same time as SignalRGB.
 
 ## Technical details
