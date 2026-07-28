@@ -24,18 +24,6 @@ Other keyboard revisions have not been tested.
 
 ## Installation
 
-### Option 1: One-click installation
-
-Make sure SignalRGB is installed, then click the button below:
-
-[![Add to my SignalRGB installation](https://marketplace.signalrgb.com/resources/add-extension-256.png)](signalrgb://addon/install?url=https://github.com/msf8/Red_Square_Alumix_68_Yotei_SignalRGB_plugin)
-
-Allow your browser to open SignalRGB when prompted.
-
-Restart SignalRGB after installation if the keyboard does not appear immediately.
-
-### Option 2: Install from the repository URL
-
 1. Open SignalRGB.
 2. Open the **Addons** or **Repositories** section.
 3. Add the following repository URL:
